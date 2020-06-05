@@ -4,4 +4,4 @@ Volleyball Scoreboard. A client application written in C# Xamarin.
 <img src="appcl.png" width="250">
 <br><br>
 Server:
-<a href="https://github.com/xselthor/SVolleyballSportsBoardServer">Volleyball Scoreboard Server</a>
+<a href="https://github.com/xselthor/VolleyballScoreboardServer">Volleyball Scoreboard Server</a>
