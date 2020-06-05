@@ -1,4 +1,4 @@
-# SVolleyballSportsBoardClient
+# SVolleyballScoreBoardClient
 Volleybal Scoreboard. A client application written in C# Xamarin.
 <br><br>
 <img src="appcl.png" width="250">
